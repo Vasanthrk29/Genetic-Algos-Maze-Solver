@@ -39,7 +39,7 @@ The objective is to **find the shortest valid path** to the goal using **evoluti
 ## 📌 How to Run the Project
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Deepakjd-dev/Genetic_Algos_Maze_Solver.git
+   https://github.com/Vasanthrk29/Genetic-Algos-Maze-Solver.git
    cd Genetic_Algos_Maze_Solver
    ```
 2. **Install dependencies**
